@@ -20,8 +20,8 @@
    <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
    <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
    <img align="center" alt="" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-   <img align="center" alt="" height="30" width="40" src="">
-   <img align="center" alt="" height="30" width="40" src="">
+   <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
+   <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
 
    <img align="center" alt="CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
    <!--
